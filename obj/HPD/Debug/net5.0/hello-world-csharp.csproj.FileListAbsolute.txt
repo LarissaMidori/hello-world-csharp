@@ -1,0 +1,16 @@
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.exe
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.deps.json
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.runtimeconfig.json
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.runtimeconfig.dev.json
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.dll
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\ref\hello-world-csharp.dll
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\bin\HPD\Debug\net5.0\hello-world-csharp.pdb
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.csprojAssemblyReference.cache
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.AssemblyInfoInputs.cache
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.AssemblyInfo.cs
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.dll
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\ref\hello-world-csharp.dll
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.pdb
+C:\Users\Larissa\desktop\projetosGitHub\hello-world-csharp\obj\HPD\Debug\net5.0\hello-world-csharp.genruntimeconfig.cache
